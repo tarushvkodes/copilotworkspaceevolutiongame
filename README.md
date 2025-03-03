@@ -1,2 +1,1 @@
-# copilotworkspaceevolutiongame
-A repository for a browser game where you make organisms and see how they evolve
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
